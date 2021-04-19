@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Yo como automatizador" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-02-03T21:37:42" hostname="DESKTOP-0TK4RSV" time="2.583">
+<testsuite name="Yo como automatizador" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-19T21:50:04" hostname="MacBook-Pro-de-Carlos.local" time="4.355">
   <properties/>
-  <testcase name="Escenario: Automatizar servicio Post del registro de usuarios" classname="Yo como automatizador" time="2.583">
-    <skipped/>
-  </testcase>
-  <system-out><![CDATA[Feature from file:///C:/Users/QV-3967/Documents/Q-Vision/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature
+  <testcase name="Escenario: Automatizar servicio Post del registro de usuarios" classname="Yo como automatizador" time="4.355"/>
+  <system-out><![CDATA[Feature from file:///Users/carloszuluaga/Documents/Automation/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature
 Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Request method:	POST
+Request URI:	https://reqres.in/api/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+HTTP/1.1 200 OK
+Date: Mon, 19 Apr 2021 21:50:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+Set-Cookie: __cfduid=d9ae97b27753adb7ed2abac6d93b010e21618869008; expires=Wed, 19-May-21 21:50:08 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 098db5cead00006202630a6000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=oBMdQ6RMONOk95wyVukUCCJCuSzq726kGSZw1L0Da150oj3q%2ByZEHnaG%2BGOwJ1YuD3EoIJ8ori3SC4CfBPFZVcp6836LaY04nw0%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 642958c44f5c6202-MIA
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "id": 4,
+    "token": "QpwL5tke4Pnpja7X4"
+}
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

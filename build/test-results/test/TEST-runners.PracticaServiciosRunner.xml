@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="runners.PracticaServiciosRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-0TK4RSV" time="0.0">
+<testsuite name="runners.PracticaServiciosRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MacBook-Pro-de-Carlos.local" time="0.0">
   <properties/>
-  <system-out><![CDATA[Feature from file:///C:/Users/QV-3967/Documents/Q-Vision/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature
+  <system-out><![CDATA[Feature from file:///Users/carloszuluaga/Documents/Automation/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature
 
-?[33mUndefined scenarios:?[0m
-?[33mfile:///C:/Users/QV-3967/Documents/Q-Vision/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature:7?[0m# Escenario: Automatizar servicio Post del registro de usuarios
-
-1 Scenarios (?[33m1 undefined?[0m)
-2 Steps (?[36m1 skipped?[0m, ?[33m1 undefined?[0m)
-0m3,366s
-
-
-You can implement missing steps with the snippets below:
-
-@Cuando("Carlos hace el registro de un usuario con las características:")
-public void carlos_hace_el_registro_de_un_usuario_con_las_características(io.cucumber.datatable.DataTable dataTable) {
-    // Write code here that turns the phrase above into concrete actions
-    // For automatic transformation, change DataTable to one of
-    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
-    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
-    // Double, Byte, Short, Long, BigInteger or BigDecimal.
-    //
-    // For other transformations you can register a DataTableType.
-    throw new io.cucumber.java.PendingException();
-}
+1 Scenarios (?[32m1 passed?[0m)
+2 Steps (?[32m2 passed?[0m)
+0m9.784s
 
 
 ]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
 </testsuite>
