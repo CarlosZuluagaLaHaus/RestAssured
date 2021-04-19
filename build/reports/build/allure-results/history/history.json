@@ -1,0 +1,212 @@
+{
+  "9242014f2f7ad7858ff7356c5fc863f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97d61c797f0f2f29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388253916,
+        "stop" : 1612388255357,
+        "duration" : 1441
+      }
+    } ]
+  },
+  "57c772c548ebee7fbe05680ae2685735" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2be19af111cf497",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388258861,
+        "stop" : 1612388259600,
+        "duration" : 739
+      }
+    } ]
+  },
+  "e1c65a503c404cc1c8145c0c4fc72e8f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6982bd205d5bd7ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388256743,
+        "stop" : 1612388257461,
+        "duration" : 718
+      }
+    } ]
+  },
+  "d388e676b33749ca87a6f0bd3b06ea9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb6ca4128ecbf845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388257463,
+        "stop" : 1612388258155,
+        "duration" : 692
+      }
+    } ]
+  },
+  "afa70caa663a4879b376538cc8770efd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d398786d6c455da2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388255379,
+        "stop" : 1612388256135,
+        "duration" : 756
+      }
+    } ]
+  },
+  "2d6f03228895d7321e8fd01bc1739fef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9955ffc69ebd41c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388253427,
+        "stop" : 1612388253908,
+        "duration" : 481
+      }
+    } ]
+  },
+  "94b6821689e5f5ed20ab88eff1c66ab6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18940022dcd9905a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388256140,
+        "stop" : 1612388256740,
+        "duration" : 600
+      }
+    } ]
+  },
+  "2a390dafa973d1afa6762cb05f99d100" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20981e9a2a53f00e",
+      "status" : "skipped",
+      "statusDetails" : "The step \"Carlos hace el registro de un usuario con las características:\" is undefined. You can implement it using the snippet(s) below:\n\n@Cuando(\"Carlos hace el registro de un usuario con las características:\")\npublic void carlos_hace_el_registro_de_un_usuario_con_las_características(io.cucumber.datatable.DataTable dataTable) {\n    // Write code here that turns the phrase above into concrete actions\n    // For automatic transformation, change DataTable to one of\n    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or\n    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,\n    // Double, Byte, Short, Long, BigInteger or BigDecimal.\n    //\n    // For other transformations you can register a DataTableType.\n    throw new io.cucumber.java.PendingException();\n}",
+      "time" : {
+        "start" : 1612388262826,
+        "stop" : 1612388265405,
+        "duration" : 2579
+      }
+    } ]
+  },
+  "d68d22ec721b935af3b349faefdc683c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47c00242dd82b4d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388258158,
+        "stop" : 1612388258859,
+        "duration" : 701
+      }
+    } ]
+  },
+  "7686c1013dca1d916405826abdd0d6ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "862bd856555dbabd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388259603,
+        "stop" : 1612388260412,
+        "duration" : 809
+      }
+    } ]
+  },
+  "387b4f1cd7a6b82a35a87ce4071d4f56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768d000f455e35e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612388247405,
+        "stop" : 1612388253334,
+        "duration" : 5929
+      }
+    } ]
+  }
+}

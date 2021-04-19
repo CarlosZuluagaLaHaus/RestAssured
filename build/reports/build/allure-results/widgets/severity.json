@@ -1,0 +1,111 @@
+[ {
+  "uid" : "9955ffc69ebd41c7",
+  "name" : "getListUsers",
+  "time" : {
+    "start" : 1612388253427,
+    "stop" : 1612388253908,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20981e9a2a53f00e",
+  "name" : "Escenario: Automatizar servicio Post del registro de usuarios",
+  "time" : {
+    "start" : 1612388262826,
+    "stop" : 1612388265405,
+    "duration" : 2579
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2be19af111cf497",
+  "name" : "patchUserTest",
+  "time" : {
+    "start" : 1612388258861,
+    "stop" : 1612388259600,
+    "duration" : 739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97d61c797f0f2f29",
+  "name" : "postRegisterUser",
+  "time" : {
+    "start" : 1612388253916,
+    "stop" : 1612388255357,
+    "duration" : 1441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "768d000f455e35e3",
+  "name" : "postLoguinTest",
+  "time" : {
+    "start" : 1612388247405,
+    "stop" : 1612388253334,
+    "duration" : 5929
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d398786d6c455da2",
+  "name" : "GetSingleUserTest",
+  "time" : {
+    "start" : 1612388255379,
+    "stop" : 1612388256135,
+    "duration" : 756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47c00242dd82b4d1",
+  "name" : "postCreateWhitPojoTest",
+  "time" : {
+    "start" : 1612388258158,
+    "stop" : 1612388258859,
+    "duration" : 701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6982bd205d5bd7ac",
+  "name" : "putUserTest",
+  "time" : {
+    "start" : 1612388256743,
+    "stop" : 1612388257461,
+    "duration" : 718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "862bd856555dbabd",
+  "name" : "deleteUserTest",
+  "time" : {
+    "start" : 1612388259603,
+    "stop" : 1612388260412,
+    "duration" : 809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb6ca4128ecbf845",
+  "name" : "postCreateTest",
+  "time" : {
+    "start" : 1612388257463,
+    "stop" : 1612388258155,
+    "duration" : 692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18940022dcd9905a",
+  "name" : "getAllUsers",
+  "time" : {
+    "start" : 1612388256140,
+    "stop" : 1612388256740,
+    "duration" : 600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,145 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-0TK4RSV",
+    "children" : [ {
+      "name" : "8696@DESKTOP-0TK4RSV.Test worker(12)",
+      "children" : [ {
+        "name" : "GetSingleUserTest",
+        "uid" : "d398786d6c455da2",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388255379,
+          "stop" : 1612388256135,
+          "duration" : 756
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postLoguinTest",
+        "uid" : "768d000f455e35e3",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388247405,
+          "stop" : 1612388253334,
+          "duration" : 5929
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postRegisterUser",
+        "uid" : "97d61c797f0f2f29",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388253916,
+          "stop" : 1612388255357,
+          "duration" : 1441
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "putUserTest",
+        "uid" : "6982bd205d5bd7ac",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388256743,
+          "stop" : 1612388257461,
+          "duration" : 718
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getAllUsers",
+        "uid" : "18940022dcd9905a",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388256140,
+          "stop" : 1612388256740,
+          "duration" : 600
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteUserTest",
+        "uid" : "862bd856555dbabd",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388259603,
+          "stop" : 1612388260412,
+          "duration" : 809
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Escenario: Automatizar servicio Post del registro de usuarios",
+        "uid" : "20981e9a2a53f00e",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1612388262826,
+          "stop" : 1612388265405,
+          "duration" : 2579
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "patchUserTest",
+        "uid" : "2be19af111cf497",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388258861,
+          "stop" : 1612388259600,
+          "duration" : 739
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postCreateTest",
+        "uid" : "bb6ca4128ecbf845",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388257463,
+          "stop" : 1612388258155,
+          "duration" : 692
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getListUsers",
+        "uid" : "9955ffc69ebd41c7",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388253427,
+          "stop" : 1612388253908,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postCreateWhitPojoTest",
+        "uid" : "47c00242dd82b4d1",
+        "parentUid" : "e4af59c697a0f6a0d17c8fe59ef68b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612388258158,
+          "stop" : 1612388258859,
+          "duration" : 701
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4af59c697a0f6a0d17c8fe59ef68b47"
+    } ],
+    "uid" : "cdc1cfc0487accbd258e354b5d825939"
+  } ]
+}

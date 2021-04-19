@@ -1,0 +1,149 @@
+{
+  "uid" : "bb6ca4128ecbf845",
+  "name" : "postCreateTest",
+  "fullName" : "ReqresTests.postCreateTest",
+  "historyId" : "d388e676b33749ca87a6f0bd3b06ea9",
+  "time" : {
+    "start" : 1612388257463,
+    "stop" : 1612388258155,
+    "duration" : 692
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4013c0636912e2a0",
+      "name" : "Request",
+      "source" : "4013c0636912e2a0.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "fbc5e3259a7551dc",
+      "name" : "Request",
+      "source" : "fbc5e3259a7551dc.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "11975b09fa676f51",
+      "name" : "Request",
+      "source" : "11975b09fa676f51.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "219d6c6e13d456f4",
+      "name" : "Request",
+      "source" : "219d6c6e13d456f4.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "e9c17dac651f7906",
+      "name" : "Request",
+      "source" : "e9c17dac651f7906.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "e5b76b7003a64fbf",
+      "name" : "Request",
+      "source" : "e5b76b7003a64fbf.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "1ed422f48085980e",
+      "name" : "Request",
+      "source" : "1ed422f48085980e.html",
+      "type" : "text/html",
+      "size" : 619
+    }, {
+      "uid" : "4a2a8ce4bc34a9cd",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "4a2a8ce4bc34a9cd.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "e2a463a5e05e741d",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "e2a463a5e05e741d.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "ecfd60bec9ebd60f",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "ecfd60bec9ebd60f.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "4d615d10fe1b8111",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "4d615d10fe1b8111.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "a387d3a68cfc4fb9",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "a387d3a68cfc4fb9.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "1943c83473b7c190",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "1943c83473b7c190.html",
+      "type" : "text/html",
+      "size" : 1633
+    }, {
+      "uid" : "f7fde38e5552e124",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "f7fde38e5552e124.html",
+      "type" : "text/html",
+      "size" : 1633
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 14,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ReqresTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "postCreateTest"
+  }, {
+    "name" : "suite",
+    "value" : "ReqresTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0TK4RSV"
+  }, {
+    "name" : "thread",
+    "value" : "8696@DESKTOP-0TK4RSV.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb6ca4128ecbf845.json",
+  "parameterValues" : [ ]
+}

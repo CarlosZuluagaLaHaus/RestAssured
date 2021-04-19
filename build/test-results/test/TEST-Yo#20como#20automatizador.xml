@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como automatizador" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-02-03T21:37:42" hostname="DESKTOP-0TK4RSV" time="2.583">
+  <properties/>
+  <testcase name="Escenario: Automatizar servicio Post del registro de usuarios" classname="Yo como automatizador" time="2.583">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[Feature from file:///C:/Users/QV-3967/Documents/Q-Vision/RestAssuredDesdeCero-master/src/test/resources/features/practica_servicios.feature
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

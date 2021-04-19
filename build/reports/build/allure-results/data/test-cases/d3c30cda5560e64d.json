@@ -1,0 +1,57 @@
+{
+  "uid" : "d3c30cda5560e64d",
+  "name" : "Escenario: Automatizar servicio Post del registro de usuarios",
+  "fullName" : "Yo como automatizador.Escenario: Automatizar servicio Post del registro de usuarios",
+  "historyId" : "2a390dafa973d1afa6762cb05f99d100",
+  "time" : {
+    "start" : 1612388262826,
+    "stop" : 1612388265405,
+    "duration" : 2579
+  },
+  "status" : "skipped",
+  "statusMessage" : "The step \"Carlos hace el registro de un usuario con las características:\" is undefined. You can implement it using the snippet(s) below:\n\n@Cuando(\"Carlos hace el registro de un usuario con las características:\")\npublic void carlos_hace_el_registro_de_un_usuario_con_las_características(io.cucumber.datatable.DataTable dataTable) {\n    // Write code here that turns the phrase above into concrete actions\n    // For automatic transformation, change DataTable to one of\n    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or\n    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,\n    // Double, Byte, Short, Long, BigInteger or BigDecimal.\n    //\n    // For other transformations you can register a DataTableType.\n    throw new io.cucumber.java.PendingException();\n}",
+  "statusTrace" : "io.cucumber.junit.UndefinedStepException: The step \"Carlos hace el registro de un usuario con las características:\" is undefined. You can implement it using the snippet(s) below:\n\n@Cuando(\"Carlos hace el registro de un usuario con las características:\")\npublic void carlos_hace_el_registro_de_un_usuario_con_las_características(io.cucumber.datatable.DataTable dataTable) {\n    // Write code here that turns the phrase above into concrete actions\n    // For automatic transformation, change DataTable to one of\n    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or\n    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,\n    // Double, Byte, Short, Long, BigInteger or BigDecimal.\n    //\n    // For other transformations you can register a DataTableType.\n    throw new io.cucumber.java.PendingException();\n}\r\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Yo como automatizador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Escenario: Automatizar servicio Post del registro de usuarios"
+  }, {
+    "name" : "suite",
+    "value" : "Yo como automatizador"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0TK4RSV"
+  }, {
+    "name" : "thread",
+    "value" : "8696@DESKTOP-0TK4RSV.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3c30cda5560e64d.json",
+  "parameterValues" : [ ]
+}
